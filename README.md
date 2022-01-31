@@ -1,11 +1,11 @@
 # AWS-EC2-instance-with-Terraform
 
-# File ec2.tf
+## File ec2.tf
 
-# File main.tf
+## File main.tf
 
-# File securitygroup.tf
+## File securitygroup.tf
 
-# File outputs.tf
+## File outputs.tf
 
-# File variables.tf
+## File variables.tf
